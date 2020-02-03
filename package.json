@@ -1,0 +1,24 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Test app BB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendaBoot/npm-test.git"
+  },
+  "keywords": [
+    "Test",
+    "app",
+    "try"
+  ],
+  "author": "BB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendaBoot/npm-test/issues"
+  },
+  "homepage": "https://github.com/BrendaBoot/npm-test#readme"
+}
